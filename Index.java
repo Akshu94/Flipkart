@@ -5,6 +5,7 @@ function App() {
 // bug no 125555 
    int i =18
   return (
+      int i=1000
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
