@@ -6,6 +6,11 @@ function App() {
    int i =18
   return (
       int i=1000
+      
+      
+      
+      // bug no 12
+      int i=15000
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
